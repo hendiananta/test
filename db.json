@@ -1,5 +1,3 @@
 [
-  {"id":2,"nim":"4545454","namadepan":"Jhon","namabelakang":"Camble"},
-  {"id":5,"nim":"3333","namadepan":"Christine","namabelakang":"Hakim"},
-  {"id":1,"nim":"02223","namadepan":"Roni","namabelakang":"Mangapul"}
+  {"id": "2","nim": "4545454","namadepan": "Jhon","namabelakang": "Camble"}
 ]
