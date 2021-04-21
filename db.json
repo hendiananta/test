@@ -1,1 +1,24 @@
-[{"id":"2","nim":"4545454","namadepan":"Jhon","namabelakang":"Camble"},{"id":"5","nim":"3333","namadepan":"Christine","namabelakang":"Hakim"},{"id":"14","nim":"02223","namadepan":"Roni","namabelakang":"Mangapul"},{"id":"23","nim":"2017071010","namadepan":"Wati","namabelakang":"w"},{"id":"27","nim":"2018071027","namadepan":"Doni","namabelakang":" Mangapul"},{"id":"28","nim":"2018071011","namadepan":"Jaja","namabelakang":"Miharja"}]
+{
+    "quotes": [
+        {
+            "id":1,
+            "author": "Nelson Mandela",
+            "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+        },
+        {
+            "id":2,
+            "author": "Walt Disney",
+            "text": "The way to get started is to quit talking and begin doing."
+        },
+        {
+            "id":3,
+            "author": "Steve Jobs",
+            "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking."
+        },
+        {
+            "id":4,
+            "author": "Eleanor Roosevelt",
+            "text": "If life were predictable it would cease to be life, and be without flavor."
+        }
+    ]
+}
